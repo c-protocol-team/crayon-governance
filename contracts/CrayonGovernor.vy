@@ -7,7 +7,7 @@
 
 from vyper.interfaces import ERC20
 
-# TODO put bounds on fees and liquidation bonus
+# TODO put bounds on fees and liquidation bonus to prevent human errors although voting process can be counted on to spot those errors
 
 MAX_NUM_PROPOSALS: constant(int128) = 100
 MAX_NUM_DESKS: constant(int128) = 20
