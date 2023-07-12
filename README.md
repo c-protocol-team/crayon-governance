@@ -16,5 +16,5 @@ Approved governance decisions are executed through the ``Control`` smart contrac
 
 ### Current state
 
-This is a preliminary implementation principally meant to invite community feedback that we'll iterate over for release some time in Summer 2023.
+This is a preliminary implementation principally meant to invite community feedback that we'll iterate over for release some time in Summer 2023. The ``admin`` address in ``Control`` on Arbitrum is currently controlled by the Crayon Protocol team and will be transferred to CrayonGovernor once deployed.
 
